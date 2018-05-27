@@ -6,7 +6,7 @@
                 Vue.jsで作ったSPA
             </h2>
             <p class="has-text-centered">
-                <a class="button is-medium is-info is-outlined">
+                <a href="http://cidermitaina.hatenablog.com/entry/2018/05/28/030514" target="_blank" class="button is-medium is-info is-outlined">
                     Learn more
                 </a>
             </p>
